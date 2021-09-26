@@ -23,5 +23,13 @@ padding: 10px;
     border-radius: 10px;
     font-weight: bolder;
     box-shadow: 2px 1px green;
+}
+
+.mainbutton:hover{
+ cursor: pointer;   
+}
+
+
+}    
 
 }
