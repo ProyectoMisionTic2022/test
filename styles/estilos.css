@@ -13,7 +13,6 @@ display: flex;
 justify-content: space-between;
 padding: 10px;
 }    
-
 .mainbutton{
     background-color: #1bb76e ;
     color: white;
@@ -23,5 +22,6 @@ padding: 10px;
     border-radius: 10px;
     font-weight: bolder;
     box-shadow: 2px 1px green;
-
+.logo{
+    height: 70px;
 }
